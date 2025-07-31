@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+google-generativeai
+gTTS
+pyttsx3
